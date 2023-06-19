@@ -1,0 +1,35 @@
+use mike_company
+
+
+--
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Research', 5, '333445555', '22-MAY-78');
+
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Administration', 4, '987654321', '01-JAN-85');
+
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Headquarters', 1, '888665555', '19-JUN-71');
+
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Software', 6, '111111100', '15-MAY-1999');
+
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Hardware', 7, '444444400', '15-MAY-1998');
+
+INSERT INTO
+    DEPARTMENT
+VALUES
+    ('Sales', 8, '555555500', '01-JAN-1997');
+
+--
