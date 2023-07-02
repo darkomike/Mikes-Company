@@ -1,4 +1,4 @@
-USE mike_company
+USE my_company
 CREATE TABLE
     WORKS_ON (
         Essn CHAR(9) NOT NULL,

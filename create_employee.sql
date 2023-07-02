@@ -1,4 +1,4 @@
-USE mike_company
+USE my_company
 CREATE TABLE
     EMPLOYEE (
         Fname VARCHAR(15) NOT NULL,

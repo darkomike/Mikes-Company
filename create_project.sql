@@ -1,4 +1,4 @@
-USE mike_company
+USE my_company
 CREATE TABLE
     PROJECT (
         Pname VARCHAR(15) NOT NULL,

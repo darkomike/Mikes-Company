@@ -1,1 +1,1 @@
-use mike_company
+use my_company

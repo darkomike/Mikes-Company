@@ -1,4 +1,4 @@
-USE mike_company
+USE my_company
 CREATE TABLE
     DEPT_LOCATIONS (
         Dnumber INT NOT NULL,
